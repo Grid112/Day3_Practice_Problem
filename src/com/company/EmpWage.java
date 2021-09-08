@@ -3,7 +3,7 @@ import java.util.Random;
 public class EmpWage {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
+        System.out.println("Employee Attendance Check:");
         int IS_FULL_TIME = 1;
         Random random = new Random();
         int empCheck = random.nextInt(2);
